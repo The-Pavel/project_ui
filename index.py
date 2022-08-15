@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.write("# MyApp V3.0")
+st.write("# MyApp")
 
 st.button("Activate!")
